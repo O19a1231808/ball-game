@@ -1,9 +1,9 @@
 {
-  "name": "Rabid Touch",
-  "short_name": "Rabid Touch",
+  "name": "Tremendous Wind",
+  "short_name": "Tremendous Wind",
   "id": "com.example.gamename",
   "description": "",
-  "orientation": "portrait",
+  "orientation": "landscape",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "black",
